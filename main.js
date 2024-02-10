@@ -24,5 +24,5 @@ if(index===3)
 
 
 function test(){
-    setInterval(switchColor, 500);
+    setInterval(switchColor, 1);
 }
