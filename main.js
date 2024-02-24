@@ -1,7 +1,7 @@
 const heading1 = document.getElementById("text");
 let name=`Website Testing`;
 
-heading1.textContent = `Aidan's ${name}`; 
+heading1.textContent = `Aidans's ${name}`; 
 Get_firstchar(name);
 Get_lastchar(name);
 Get_numberofchar(name);
